@@ -1,0 +1,37 @@
+{
+  "name": "safe-fs",
+  "version": "1.0.0",
+  "description": "safe-fs development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ronaldhariyanto/safe-fs.git"
+  },
+  "keywords": [
+    "safe-fs"
+  ],
+  "author": "ronaldhariyanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ronaldhariyanto/safe-fs/issues"
+  },
+  "homepage": "https://gitlab.com/ronaldhariyanto/safe-fs#README",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0",
+    "babel-core": "^6.26.0",
+    "babelify": "^8.0.0",
+    "browserify": "^14.5.0",
+    "envfile": "^2.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-image": "^4.1.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
